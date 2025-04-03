@@ -1,3 +1,9 @@
+def addition(a, b):
+    return a + b
+
+def multiplication(a, b):
+    return a * b
+
 def salaire_mensuel(salaire_annuel):
     return salaire_annuel / 12
 
